@@ -1,7 +1,7 @@
-# Nova Tech Systems
+# CloudSync Solutions
 
 ## Visão Geral
-Empresa focada em modernização de infraestrutura.
+Empresa focada em soluções de nuvem e sincronização de dados.
 
 ## Valores
 - Inovação Constante

@@ -1,12 +1,12 @@
-# TF01 - Nova Tech Systems
+# TF01 - CloudSync Solutions
 
 - **Nome:** Lucas de Souza Lemes
 - **RA:** 6324582
 - **Curso:** Análise e Desenvolvimento de Sistemas
 
-- **Nome:** Nova Tech Systems
-- **Ramo:** Soluções de TI e Infraestrutura de Redes
-- **Descrição:** Especializada em simplificar a gestão de infraestrutura tecnológica com foco em automação, segurança e alta disponibilidade.
+- **Nome:** CloudSync Solutions
+- **Ramo:** Soluções em Nuvem e Sincronização de Dados
+- **Descrição:** Especializada em integração de sistemas em nuvem, sincronização de dados em tempo real e soluções escaláveis para empresas modernas.
 
 #   # Como Executar
 
@@ -34,7 +34,7 @@ Páginas disponíveis:
 
 ## Configurações Aplicadas
 - Nginx configurado com virtual host personalizado
-- Logs personalizados em `/var/log/nginx/novatech_*.log`
+- Logs personalizados em `/var/log/nginx/cloudsync_*.log`
 - Permissões configuradas para garantir segurança (755 nos diretórios)
 - Página 404 customizada integrada ao Nginx
 
@@ -44,8 +44,8 @@ Páginas disponíveis:
 sudo systemctl status nginx
 
 # Ver logs de acesso
-sudo tail -f /var/log/nginx/novatech_access.log
+sudo tail -f /var/log/nginx/cloudsync_access.log
 
 # Ver logs de erro
-sudo tail -f /var/log/nginx/novatech_error.log
+sudo tail -f /var/log/nginx/cloudsync_error.log
 ```
