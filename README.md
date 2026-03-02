@@ -1,7 +1,7 @@
 # TF01 - Nova Tech Systems
 
-- **Nome:** Yago Canton
-- **RA:** 6324598
+- **Nome:** Lucas de Souza Lemes
+- **RA:** 6324582
 - **Curso:** Análise e Desenvolvimento de Sistemas
 
 - **Nome:** Nova Tech Systems
